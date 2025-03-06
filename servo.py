@@ -40,6 +40,6 @@ try:
 	# servo.max()
 except KeyboardInterrupt:
 	print("Program stopped")
-     
+
 
     
