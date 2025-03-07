@@ -10,7 +10,7 @@ monitoring
 # Features
 ## Person Detection
 Uses an ultrasonic sensor to detect a person within 0.5 meters.
-- Image Retrieval from Firebase\
+- Image Retrieval from Firebase
 
 Retrieves stored facial images from Firebase for comparison.
 - Face Recognition & Matching
