@@ -9,3 +9,6 @@ monitoring
 
 FYP:  Smart Home Automated System (Iot)\
 Project consists of Raspberry Pi (with PiCam), Servo motor and Android application (Java)
+
+Demo of application:
+https://youtu.be/qUYd8dFTbM4
